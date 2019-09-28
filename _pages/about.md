@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ben Jung"
+title: "About"
 excerpt: "Neuroscience PhD Student in the Brown University - National Institute of Health Graduate Partnership Program"
 author_profile: true
 redirect_from:
