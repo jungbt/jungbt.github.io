@@ -6,8 +6,8 @@ main:
   - title: "Presentations"
     url: /presentations/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Demos"
+    url: /demos/
 
   - title: "CV"
-    url: /cv/
+    url: /files/benjamin_jung_cv.pdf
